@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../front_Hotel"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../pruebas"
+		},
+		{
+			"path": "../hotelDispositivos"
+		}
+	],
+	"settings": {}
+}
